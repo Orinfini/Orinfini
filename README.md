@@ -1,30 +1,5 @@
 ### Olá, me chamo Lucas Almeida, ou você pode me chamar de Lucas Mineta.                                 
-                        ___;;r!*;**r*^^^-                          
-                     ^r:_- -_^^rL!r!^_:,;ci*-                      
-                  !;^--    ---___,;~*;,^^*,_*r^                    
-                ;T_'        ---___:_,,^!*T!,_,^i                   
-               ;^_-         --_________;*rr^:___2-                 
-             -c;^_-        -'__,___-____^*L;:___^r                 
-             ;rr:_         --__________,^!r*;:_,,3!                
-             ***:__-      -___,_____^^_^,;+;^,::r88T               
-             Tri,__'- ^^--__*r:__,__^Pxi;rrTr___Pege*              
-             tLj;_:::;G,E^t__xPX3- -_:;JAg#e^^**e@QO^              
-             !,8J*3tc8*-~m%, -_;SOdO88%@g@@dSPFyJ@E'               
-            K18v-_*v8vcr1M&g88%@@@8*FX3@@G*^_'__i#v                
-            -G@3&gg&@@@@@@@8ggy4%ADOOgAT_---__:x%u-                
-              !@8g@@@@8HPgg-^S^^iXu^       -_;eXzj                 
-               f__---' _u32--__-_;#G8ec^___^+ir,i&                 
-               *,     _gmr&EcuGggU*_^ti*JTt3i^:,L8                 
-                !Sv*~*gG*P&QEG8SJiFrXxir3_*r,t^;t-                 
-                  ;UP33:;PP88OT;^^:Ps-^h-_X,2*Vr                   
-                   -*SterE^^rJeFs8@8vS%--ir48i                     
-                     _;fiA@81r;;^;!cveE-*MUF                       
-                      -rFrH!rsX8gbD%%XsCP^                         
-                         -cG%%X2fr;-                               
-                                                                   
-                                                                   
-                                                      
-                                                                                                 
+                                                                                                    
 #### Um pouco sore mim:
 - Cursando ADS.
 - Focado em Java e suas tecnologias.
