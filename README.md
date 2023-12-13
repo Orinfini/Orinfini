@@ -1,37 +1,29 @@
-### Olá, me chamo Lucas Almeida, ou você pode me chamar de Lucas Mineta. 
-UUXXXXXXXXXXXXXXXXXXbbbbbKA8@@@@@@8GGGA8@@@@@@@@@@@@@@@@@@@@@@&%GqHHHHHHHHHdHdHHHHHHbbbddKddHHdHS
-UUXXXXXXXXXXXXXXXXX6bbddd#@@@@@@@@@@@g@@@@@@@@@@@@@@@@@@@@@@@@@g8GAAHHHHHHHKHHddHHHHKbbHHHKHdHHHS
-UUXXXXXXXXXXXXXXXX6bbbdAW@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%GAHHHHHHHHHHHbbKdHHbbbbbbKHddHHS
-XXXXXXXXXXXXXXXX6bbbbbq%@g%N%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8GqHHHHHHHHHKbbbbHddbbbHHHbKHHS
-XXXXXXXXXXXXXXX6bbbbKdHAG8g@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@gGqHHHHHdHHHHdHbHHHHKKHHHHHHHS
-XXXXXXXXXXXXXXXbbbbKHHGM@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DAHHHHHbdHHHKbbbbbbKKdHHHHHdS
-XXXXXXXXXXXXXXX6bbbKH#@@@@@@@@@@@@@@@@@@@@@@@@@@@@g@@@@@@@@@@@@@@@@@GGAAHHHKKKKdbbbbbbbbbbbdHHHHS
-XXXXXXXXXXXXXXX6bbbb8@@@@@@@@@@@@@@@@@@@@@@gj@@@8rt1@@@@@@@@@@@@@@@@@@@@&DHbbbbbbbbbbbbbbbbbbbbKS
-XXXXXXXXXXXXXXXX6bb#@@@@@@@@@@@@@@@@@@%F@@B*g@@S;;J!@@@@@@@@@@@@@@@@@@@@@@gdbbbb66XXXX6XXX666bbba
-XXXXXXXXXXXXXXXXXbd@@@@@@&@@@@@@@@@@@&*y@@**@@k;^r;;8@@@c8@@@@@@@@@@@@@OHG0GbXXXXXXXXXXXXXXXXXXXE
-XXXXXXXXXXXXXXXXXX8@@@&8%@@@@@@@@@@@@vF@@@8T@@r^^r^;8@@r;t@@@@@@@@@@@@@@86XXXXXXXXXXXXXXXXXXXXXXE
-XXXXXXXXXXXXXXXXXXg@@OG@@@@@@@@@@@@@@8vSS@@@@v^^;;^+@U*SQ@&X@@@@@@@@%P@@@VSe5CuxvccTePXXUjFztEUX2
-XXXXXXXXXXXXXXXXXXQ%HH@@@@@@@@@@@@@@@@R*i,-^X@S;^^;X28@M8Es@@@@@@@@@@^,e8!*!;;;;~~~;;*TvT*;^^;TE2
-XXXXXXXXXXXXXXXXXXbXXA@@@@@g@@@@@@@@@U!!T-   ;%%brG8#;- ^,rP@@@@@@@@C^^^;^^^~^^^^^^^~;;!;^^^^^;rt
-XXXXXXXXXXXXXXXXXXXXXb@@@@8@@@@@@@@Pbg*;*^:___;,^^;;:__:^,^Grt2@@@@r^^^^;i*^^^^^^^^^^^;;^^^^^^~!r
-XXXXXXXXXXXXXXXXXXXXXXG@@gG@@@@@@@@SE*5;;*GiL;;^;^;;;rrr^^c;T;%@@@;^^^^^^;8WT^^^^^^^^^^^^^^^^^^;^
-XXXXXXXXXXXXXXXXXXXXXbHA%8d8@@@@@@@@lTfc*t;^,,,^C^^,,,,,;rx!;S@@@@@6z*;;;;S@@N!;;;;;;;;^^^^^^^~;^
-XXXXXXXXXXXXXXXXXXG0@@gAbKbd#@@@@@@@@@#G!*;^,,,^s;;**^;rrz%@@@@@@@@@@@@@@@@@@@#!*******!!;!!!!!!;
-XXXXXXXXXXXXXXXXX$@@@@RKbbbbbG@@@@@@@@@@t*;^^,^xiTir^;1Tc8@@@@@@@@@@@@@@@@@@@@T*****rrrr++rLrr**!
-XXXXXXXXXXXXXXXXG@@@@@OAHdbbG%@@@@@@@@@#;rTc;^,,;+^^^rrr;T@@@@@@@@@@@@@@@@@@KrrrrrrrrLLLLcTTTTccr
-XXXXXXXXXXXXXXXXA@@@@@@&Mg&@@@@@@@@@@@@x;U;;*LT;^^~Tr!;*!^&@@@@@@@@@@@@@@@@@@@@%PFTTvF1Cj2SPUUUPj
-XXXXXXXXXXXXXXXXX8@@@@@@@@@@@@@@@@@@@@@*;k*;;;;FHR#x;~^L^^S@@@@@@@@@@@@@@@@@@@@@@@@%Abb6XXXXXXXX2
-XXXX66XX66666XX8@@@@@@@@@@@@@@@@@@@M8%g!;*v;;;;rLLf;~^*;,^L@@@@@@@@@@@@@@@@@@@@@@@@@@GKbXXXXXXXXe
-XXXXXXXX6X666K&@@@@@@@@@@@@@@Q%88D88#Uc;;;rc;;;;*u;;^;*^,,,;iS8@@@@@@@@@@@@@@@@@@@@@@&HbXXXXXXXXe
-XXXXXX666XXXA@@@@&g0%@@@@@@g88D8%yi!;;;;r;;rL;;;!r;;;*^;;,,,,^^r@@@@@@@@@@@@@@@@@@@@@@GbbXXXXXUUe
-XXXXXXXXG88888888888%@@@@@@@@@@@@cr****rerrrr+;;;;;;!;;rz!!!;;;;&@@@@@@@@@@@@@@@@@@@@@@8GbXXXXXUe
-XX66XXAgN8%g&@@@@@@@@@@@@@@@@@@@@*;;;;;^;!;^^;;!;*T;;^^rTT*;^,,^&@@@@@@@@@@@@@@@@@@@@@@@@8KXXXXXe
-XXXXAXD@@@@@@@@@@@@@@@@@@@&gM%888j;;;;r*r;^^,^^^!;^^^,^^^^^^,,;5@@@@@@@@@@@@@@@@@@@@@@@@@gGGXXXX2
-XXHjr;P@@@@@@@@@Qg%888g@@&880g@@@@&S+;^^^^^,,,^^^^,,,,,,^^^^F8@@@@@@@@@@@G@@@@@@@@@@@@@@@%;;1GXX2
-X4*;;;3&%88D8888888g&@@@@@@@@@@@@@@@@Xv^^^^,,^^^^^^,,,,,,;y@@@@@@@@@@%XSvSxP8g@@@@@@@@@@gy^^^^eA2
-D!;;;;F&88%g@@@@@@@@@@@@@@@@@@@&g%8888%g8jL~^^^^*;^^,,^v8@@@@@@@@@@@%Sl*!tFrH3@@@@@@@@@@g;^^^^,Tk
-X;;;;;T&@@@@@@@@@@@@@@@&gN888%g&@@@@@@@@@@@&RC+^*!~;sH@@@@@@@@@@@@@@@X8DcGtg8@@@@@@@@@@g4^^^^^,,3
--      ___________''''_'''______________''''''________________________-_-'__-___________-       -
+### Olá, me chamo Lucas Almeida, ou você pode me chamar de Lucas Mineta.                                 
+                        ___;;r!*;**r*^^^-                          
+                     ^r:_- -_^^rL!r!^_:,;ci*-                      
+                  !;^--    ---___,;~*;,^^*,_*r^                    
+                ;T_'        ---___:_,,^!*T!,_,^i                   
+               ;^_-         --_________;*rr^:___2-                 
+             -c;^_-        -'__,___-____^*L;:___^r                 
+             ;rr:_         --__________,^!r*;:_,,3!                
+             ***:__-      -___,_____^^_^,;+;^,::r88T               
+             Tri,__'- ^^--__*r:__,__^Pxi;rrTr___Pege*              
+             tLj;_:::;G,E^t__xPX3- -_:;JAg#e^^**e@QO^              
+             !,8J*3tc8*-~m%, -_;SOdO88%@g@@dSPFyJ@E'               
+            K18v-_*v8vcr1M&g88%@@@8*FX3@@G*^_'__i#v                
+            -G@3&gg&@@@@@@@8ggy4%ADOOgAT_---__:x%u-                
+              !@8g@@@@8HPgg-^S^^iXu^       -_;eXzj                 
+               f__---' _u32--__-_;#G8ec^___^+ir,i&                 
+               *,     _gmr&EcuGggU*_^ti*JTt3i^:,L8                 
+                !Sv*~*gG*P&QEG8SJiFrXxir3_*r,t^;t-                 
+                  ;UP33:;PP88OT;^^:Ps-^h-_X,2*Vr                   
+                   -*SterE^^rJeFs8@8vS%--ir48i                     
+                     _;fiA@81r;;^;!cveE-*MUF                       
+                      -rFrH!rsX8gbD%%XsCP^                         
+                         -cG%%X2fr;-                               
+                                                                   
+                                                                   
+                                                      
                                                                                                  
 #### Um pouco sore mim:
 - Cursando ADS.
